@@ -9,3 +9,8 @@ As this documentation based on my preferences, so please feel free to point out 
 * [Unit Testing](https://github.com/kianbomba/Best-Practice/blob/master/unit_testing.md)
 
 * [Good OOP](https://github.com/kianbomba/Best-Practice/blob/master/unit_testing.md)
+
+
+#### For Contributors
+
+After adding any contents to the documentation, please provide your name to [Authors](https://github.com/kianbomba/Best-Practice/blob/master/authors.md)
